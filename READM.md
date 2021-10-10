@@ -1,0 +1,1 @@
+# a simple code for an arabic responsive website
