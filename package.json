@@ -7,8 +7,7 @@
     "deploy": "gh-pages -d arabnft"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/realsulty/NFTarabicwebsite.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
