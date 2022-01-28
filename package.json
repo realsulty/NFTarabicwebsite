@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d arabnft"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realsulty/NFTarabicwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realsulty/NFTarabicwebsite/issues"
+  },
+  "homepage": "https://realsulty.github.io/nftarabicwebsite",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
